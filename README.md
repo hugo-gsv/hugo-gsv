@@ -5,8 +5,8 @@
 
 <div>
  <a href="https://github.com/hugo-gsv">
- <img height="180em"src=https://github-readme-stats.vercel.app/api?username=hugo-gsv&show_icons=true&theme=dracula&"/>
-<img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-gsv&layout=compact&langs_count=16&theme=dracula&"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hugo-gsv&show_icons=true&theme=dracula&"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-gsv&layout=compact&langs_count=16&theme=dracula&"/>
 </div>
 
 ### Tecnologias que estou aprendendo 👨‍💻
